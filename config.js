@@ -1,6 +1,6 @@
 module.exports = {
     TOKEN: '976289942:AAE9FCXY2EHZbJDhU6hyLDzV0EVMkRkcxmA',
-    db: 'mongodb://localhost/moneyker',
+    db: 'mongodb://heroku_01dtptrk:on349jou0soie8kmmdehgmurmf@ds247357.mlab.com:47357/heroku_01dtptrk',
     host: '',
     dbname: '',
     name: '',
